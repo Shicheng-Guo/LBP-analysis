@@ -1,6 +1,5 @@
 # LBP-analysis
 
-
 ####plots
 res_single <- mr_singlesnp(dat)
 res_single <- mr_singlesnp(dat, single_method="mr_meta_fixed")
